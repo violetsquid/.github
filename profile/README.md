@@ -1,3 +1,3 @@
-# violetsquid: human-first web development and consulting
+# Violetsquid: your partner in web development
 
-**Violetsquid** is a small-team web development and consulting firm based outside of Seattle, USA. Contact us at [info@violetsquid.xyz](mailto:info@violetsquid.xyz) for information or business requests.
+Violetsquid is a queer-owned and operated co-op of experienced developers, designers, and web specialists. We craft compelling content strategies that drive results—building reliable, effective, and long-lasting solutions for our clients. From web development to design, we've got you covered.
